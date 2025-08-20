@@ -65,5 +65,5 @@ This project successfully developed a single, highly-performant stacking regress
 If GitHub Unable to render the Jupyter Notebook file, then use NBviewer
 #### **How to use NBviewer to render the Jupyter Notebook file**
 1. Navigate to the **NBviewer** website.
-2. In the text field provide, paste the full URL of `.ipynb` file from this repository.
+2. In the text field provided, paste the full URL of `.ipynb` file from this repository.
 3. Click "Go" button. NBviewer then process the file and display the rendered notebook.
